@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Admins>
+    
+    <admin>
+        <title>Christine Riego</title>
+        <password>christine12345</password>
+    </admin>
+    
+    <admin>
+        <title>Cyrel Madjos</title>
+        <password>cyrel12345</password>
+    </admin>
+
+
+
+    <admin>
+        <title>Jayvez Santos</title>
+        <password>jayvez12345</password>
+    </admin>
+    
+</Admins>

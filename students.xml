@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <id>153225</id>
+        <name>Christine Riego</name>
+        <password>123456</password>
+        <CurrentCourses>
+            <CurrentCourse>CICS100x</CurrentCourse>
+            <CurrentCourse>CICS313</CurrentCourse>
+            <CurrentCourse>CICS314</CurrentCourse>
+            <CurrentCourse>CICS316</CurrentCourse>
+            <CurrentCourse>CICS334</CurrentCourse>
+            <CurrentCourse>CICS203</CurrentCourse>
+        </CurrentCourses>
+    </student>
+
+    <student>
+        <id>153137</id>
+        <name>Cyrel Madjos</name>
+        <password>Madjos12345</password>
+        <CurrentCourses>
+            <CurrentCourse>CICS100x</CurrentCourse>
+            <CurrentCourse>CICS313</CurrentCourse>
+            <CurrentCourse>CICS314</CurrentCourse>
+            <CurrentCourse>CICS316</CurrentCourse>
+            <CurrentCourse>CICS334</CurrentCourse>
+            <CurrentCourse>CICS203</CurrentCourse>
+        </CurrentCourses>
+    </student>
+    
+<student><id>153138</id><name/><password>MSC1234</password><CurrentCourses/></student></students>
